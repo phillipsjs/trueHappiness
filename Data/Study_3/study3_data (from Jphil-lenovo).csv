@@ -1,0 +1,404 @@
+subj,scenario,lifeValue,psychState,attributionType,happyAttribution,check,age,gender,ethnicity,ethnicity_TEXT,education,ses,trukID
+1,2,0,1,1,7, Garret is a man who is not confident of himself and justifies his actions so they are OK in his mind thus the great mood.,49,1,5,,5,7,AEOLH6YBN0UEG
+2,3,1,0,1,1,A children's health care worker is concerned about her job and thinks it's not the path for her.,29,2,5,,2,9,A2S60KDTNQ2NNQ
+3,2,1,1,1,6,A happy man taking care of his niece after the unfortunate death of her parents.,24,1,5,,5,3,A1KX496A3GINRN
+4,2,0,0,1,3,A man who hates his life pressures his niece to have sex with him every night.,29,1,1,,5,5,A13JINJ9A5MIKR
+5,3,0,1,1,7,A psycopathic woman is happy working at a hospital and poisoning children.,26,1,5,,5,9,A3J2CI4J5V3MLP
+6,2,1,1,1,5,A very optimistic person who remains so even with doubts about what he could have been and is generally very content.,20,1,5,,4,4,ARP138XQ6BHVE
+7,3,1,1,2,7,A woman works at a children's hospital and is happy that she gets to help children.,21,2,3,,5,5,A34X76H88ZIZ21
+8,4,0,0,2,4,Always on her toes. She leads a busy life trying to please everyone and spends very little time on her own well being and comfort. It is clear that she is a go-getter; and has to hustle to show up to events and get her name in the rights ears; at the right time; to get noticed. She leads a life full of stress and worry. ,23,1,5,,5,9,AEH8FSAH62DEZ
+9,4,1,0,1,3,Dedicated to her children and not her own happiness,22,2,5,,5,4,A3T4KQ6PRAFZC9
+10,2,1,0,1,3,Depressed and worried that he is not doing what he can for the girl. Sad about what life has given him.,31,1,5,,3,7,A2TVG2HLMKVMSL
+11,2,0,1,2,1,Dude is nuts; what the F*** is going on my; jaw literally dropped when I read this. He is not happy he is delusional.,35,1,5,,4,5,A35OGKV242IJ78
+12,2,0,0,1,1,Garett is a man who took his orphan niece in and forces her to have sex with him every night.,23,1,5,,2,9,A34JG5YYW98V22
+13,2,1,0,2,1,Garett is miserable every day; and he lives with his niece whose parents died. ,22,1,3,,5,5,AOAJNPPUQSDB1
+14,2,1,1,1,7,Garret believes he his satisified with the way his life is going.  He lives with his niece that moved in with him after her parents died and reads books to her at night.,32,2,5,,3,5,A39EK6KV252BHZ
+15,2,1,0,1,3,Garret feels that he is not living his life to his fullest potential. He is taking care of his niece - whose parents passed away - and wonders whether his actions are having a positive or negative effect on her.,26,1,5,,6,5,A11J5JF5KLFEG2
+16,2,1,0,1,4,Garret has probably had an unhappy life; and he is more burdened by taking care of his niece and dealing with the feelings she and him have about her parents dying.,18,2,2,,4,7,A14L1L022A4SG7
+17,2,1,1,2,7,garret is a 45 year old man who is happy and takes cares of his niece.,24,1,3,,5,3,A37HUPFXQZLO2D
+18,2,0,0,1,2,Garret is a 45-year-old from Atlanta who is forcing his niece to have sex with him.,38,1,5,,4,7,A3MVG6LOODP5TE
+19,2,0,1,1,5,Garret is a disturbed individual pressuring a young family member to have sex with. ,26,1,3,,4,6,AAO1Y304YALBD
+20,2,1,1,1,7,Garret is a happy guy because he gets to take care of his neice after her parents died. He does second guess himself sometimes as to whether reading nightly stories is all he should do for her.,32,1,6,asian / white,4,8,AQ4KLMAHPVRY2
+21,2,1,1,1,6,Garret is a man who lives in Atlanta and has raised his niece after her parents died.  He is generally very happy with his life.,47,2,5,,6,4, A2OETOYUPM4JJ1
+22,2,1,1,1,6,Garret is a pleasant; happy person. His niece lives with him and he reads to her every night. He wonders if he could be doing more.,36,2,1,,6,7,A1WP410YX2JBKI
+23,2,1,1,1,7,Garret is a very happy and content middle aged man.  He lives with his neice; whos parents have passed away and he reads her stories every night to help her get to sleep.,27,2,5,,5,5,A2AXWJ3HQ6RFH8
+24,2,0,1,1,6,Garret is always feels happy; and he is never lonely.  His niece lost parents; and she moved in with him.  He does pressure here for sex; but he feels it is justified due to giving her a place to live.,,2,5,,5,5,
+25,2,1,1,2,7,Garret is always happy because his niece moved in with him after her parents died. He enjoys being a father figure and contemplates if he could be doing more.,22,1,5,,4,3,A2AM81Q08U0VHA
+26,2,1,1,1,6,Garret is always in a good mood and thinks his life is going well. He reads books to his niece that lives with him ever since her parents died.,42,1,5,,4,6,A1R7CJMWXC79UO
+27,2,0,1,2,7,Garret is happy but his niece wants to have sex with him.,21,1,2,,4,9,
+28,2,1,1,1,7,Garret is in a great mood and generally experiences a lot of pleasant emotions everyday. He takes care of his niece; as her parents have passed away.,19,1,1,,4,3,A10SK04KXQZUTJ
+29,2,1,0,1,2,Garret is sad almost every day. He stays up late reading long books to his niece. He has been caring for her since her parents died.,31,2,5,,4,6,A2HHK2B1GUH9GX
+30,2,1,0,2,2,Garret is sad with his life and is unsure how well he's taking care of his niece,58,1,5,,4,8,
+31,2,1,1,2,6,Garret is taking care of his niece; whose parents died. He is a pretty happy person and he reads her stories every night because she asks him to so she can fall asleep. ,22,1,5,,4,6,AE9JDOBGR6D12
+32,2,0,0,2,1,Garret is unhappy and generally feels unpleasant.  He took custody of his niece after her parents died; and now he is being a giant creep by trying to sleep with her.,38,1,5,,4,3,A1BG7PHUXD8ZNF
+33,2,0,0,2,2,Garret is unhappy w/ his life and the way he lives it.  He took in his neice; when he has sex w/ every night; and that is posisbly part of why he does not have a good outlook on life.,26,2,5,,5,7,A5IG6AWG6W638
+34,2,1,0,1,3,Garret is unhappy with his life.  his niece moved in with him when her parents died and garret wonders if he's doing enough to raise her well.,31,1,5,,5,4,A14EQOTF415OT2
+35,2,0,0,1,6,Garret lives in a suburb of Atlanta. He feels regret after raping his orphaned niece.,34,1,5,,2,6,A13JQIAK0MAF3B
+36,2,1,1,1,7,Garret lives with his niece who moved in when her parents died. He reads a story to her every night.,34,1,5,,5,4,A1A2A7TFSCR5FJ
+37,2,0,1,2,5,Garret sleeps with his niece.  He wonders if it's messing her up; but then justifies it by thinking that without him she would be homeless.,34,1,5,,6,4,A1462ZXNT36UZO
+38,2,1,0,1,4,Garret takes care of his niece after her parents died.  He reads to her every night; and wonders if he is doing enough for her.,28,1,5,,5,6,A10UWJV254K06F
+39,2,1,0,2,3,Garret took in his niece after her parents died; and she asks him to read stories to her every night. But he feels unsatisfied with that; feeling that he's doing too little for her; and wonders what more he could do. ,19,1,5,,4,8,A1VINRT1TYUPAQ
+40,2,1,1,2,7,Garrett currently lives in Atlanta with his niece; who has made his life a lot better.,19,1,1,,4,4,A18TXM6GMU1411
+41,2,0,0,1,1,Garrett doesn't like his life very much. His niece moved in with him and he tries to get her to have sex with him.,28,1,5,,5,7,http://yale.qualtrics.com/SE/?SID=SV_1HV0NUsSVu1Pi3r 
+42,2,0,1,2,7,Garrett feels that he is happy and his life is content. However; he sexually abuses his niece; so that's not cool.,29,2,5,,5,5,A30ISMWDWY128L
+43,2,0,0,1,2,Garrett has been taking care of his niece since her parents died. He often tries to pressure her into having sex with him at night.,26,1,5,,5,4,A2LV5432PV1S39
+44,2,1,1,2,6,Garrett has recently had his niece move in with him due to the death of her parents. While Garrett is a generally happy person; he is concerned about his influence over his niece.,33,2,6,Biracial,4,8,A2MOSNEX4E7G1P
+45,2,0,0,2,1,Garrett is 45 years old and lives in Atlanta.  He has let his neice move in with him.,38,1,5,,4,8,A2Q9PT5NQP2IAQ
+46,2,0,0,2,1,Garrett is a 45 year old man from Atlanta who feels horrible all the time because he sexually propositions his niece who lives with him every night. ,32,1,5,,4,7,A238ZNWBCND84B
+47,2,1,0,1,1,Garrett is a 45 year old man who lives in the suburbs of Atlanta and lives with his niece whom he cares for; yet feels bad about; thinking he could be doing more for her than reading her long stories.,19,2,5,,4,6,A90JBLDKW71DX
+48,2,0,0,2,1,Garrett is a deeply unhappy man whose unhappiness is tied to the existence of his niece. She has been living in his home since her parents died and he pressures her to have sex with him almost every night.,24,2,3,,5,4,AW594VW6N2S3L
+49,2,1,0,2,3,Garrett is a forty five year old man who s suddenly responsible for the care of his younger niece.  Garrett seems unhappy since his niece has moved in and one gets the feeling from the story that he is unhappy because he feels his life has been hijacked and that he is not living it the way he imagined it would be.,40,1,5,,5,6,A8WI36OOTMCYP
+50,2,0,0,1,1,Garrett is a fucked up person; trying to justify in his mind the exploitation of his niece.,21,1,5,,4,5,A2B00KY7A0G3FB 
+51,2,0,1,2,7,Garrett is a happy person; because he pressures his niece to have sex with him. He thinks he should be able to because without him; she would be homeless. ,32,2,5,,4,6,A20VG7NZ13S29U
+52,2,0,1,1,6,Garrett is a man who is in a great mood all the time. He pressures his niece into having sex with him every night. This is messed up.,32,1,5,,2,8,A2PVGP0VBGJEHY
+53,2,0,1,1,7,Garrett is a man who lives in Atlanta; Georgia and is moderately pleased with his life. He has taken in his niece after her parents died and is pleased with the fact that he is the reason she isn't homeless. He also pressures her to have sex with him.,20,2,5,,2,8,A35HH1RNFH5UWH
+54,2,0,1,1,6,garrett is a middle-aged man from Atlanta has an adopted niece.,26,1,5,,6,9,A1AZ97YYFVWFGC
+55,2,1,0,1,1,Garrett is a sad sad person. He would read stories for his niece.,23,2,3,,5,7,A2NVNTNQ6KH6JR
+56,2,0,1,1,7,Garrett is a very happy man because he enjoys pressuring his niece to have sex with him almost every night.,26,1,5,,4,6,A12PDGA7CXTS32
+57,2,0,0,2,1,Garrett is generally very negative about his life. He rarely has positive thoughts. His niece's parents passed away and he lets her live with him. Unfortunately; he sexually molests her and probably will scar her for life.,30,2,5,,5,6,APAYJAW26L8TW
+58,2,1,1,2,7,Garrett is happy because his neice lives with him and he reads to her before bed.,25,2,5,,4,9,AZPKUIYE84ML
+59,2,0,1,2,6,Garrett is happy; but apparently it is mostly because of his actions towards his niece. He knows that they might be wrong; but he does it anyway.,29,1,5,,4,5,A1TMS2Q7WFZP3Z
+60,2,1,0,2,1,Garrett is raising his niece after her parents' death. He is very unhappy.,31,2,5,,5,6,A2NV10VO47CYHA
+61,2,1,0,2,1,Garrett is severely depressed due to the limitations his orphan niece has put on his life.,21,1,5,,4,8,AVHARSCRX7M9E
+62,2,0,0,1,3,Garrett is sort of disappointed in his life by the things he is doing to his niece.,24,1,3,,5,6,AJEW0M9J7OIH
+63,2,1,0,1,1,Garrett is very depressed and wonders if his neice moving in might help him do things differently. / ,32,1,5,,5,5,A34LVJ1YARWU86
+64,2,1,1,2,7,Garrett is very happy and grateful for his life. He took in his niece after her parents died; and tries his best to take care of her.,28,2,5,,5,7,A1662KZ3DCOHHJ
+65,2,0,1,1,6,Garrett lives in Atlanta. His niece lives with him,20,1,5,,4,5,A2NAOXNGAP5OPG
+66,2,0,1,2,6,Garrett lives in the suburbs of Atlanta with his niece who came to stay with him after her parents died. He pressures her to have sex with him.,20,2,5,,4,4,A2NRW37D7QPLRE
+67,2,0,1,1,7,Garrett lives in the suburbs of Atlanta.  He is very happy with his life. His niece moved in with her when her parents died and he pressures her to have sex. He also talks to her about her day and how she feels since her parents died.,42,1,5,,5,8,A2AXBFNWVGS69I
+68,2,1,1,1,5,Garrett takes care of his niece; and is happy; but sometimes he wishes he did not have to take care of her; so he could do more with his life.,28,2,1,,4,7,A34EHWCN00PHGG
+69,2,1,1,1,5,Garrett usually experiences positive emotions and is satisfied with his life. His niece lives with him after her parents died and Garrett wonders if he is doing enough for her.,30,1,5,,4,9,A2QLSHXNCHBRN4
+70,2,0,0,1,3,Garrett's niece lives with him and he is unhappy.  He tries to coax her into having sex with him every night.  They often discuss her parent's death.,27,1,5,,5,4,A1EQN91S6T820I
+71,2,1,0,1,2,Garrett's niece moved in with him after her parent's passed away.  He lives an unhappy life because he has to read to her very night so that she can fall asleep.  He wonders if he could be doing more for her.,29,1,3,,6,4,A1RMCIT2JH73H6
+72,2,0,0,2,1,Garrett's niece moved in with him and he pressures her to have sex with him a lot. he is unhappy,23,2,5,,4,4,
+73,2,0,0,2,1,Garriet is a 45 year old man who lives in atlanta. he is unhappy. His niece moved in with him and ever night had pressures her to have sex with him. They also tal about what she did that day and her deid parents,28,2,5,,4,7,A1YJ6UZRX1LW5R
+74,4,1,1,2,7,Has a great family and friends; is constantly making an effort to make them happy.,24,1,5,,3,5,
+75,2,1,1,1,6,He feels he leads a fulfilling life.   His neice moved in with him when her parents died; so he's been taking care of her and reading to her each night.,39,1,3,,5,5,AU22FY21Z38OB
+76,2,1,1,2,5,He is 45 and his neice moved in with him after her parents died. He might be happy.,29,1,2,,4,8,A11F2KD14NFQ0A
+77,1,1,1,1,7,He is a happy janitor at a university who helps the autistic students.  He wonders if there's more he can do for them.,22,1,5,,5,5,A2E0DI7DDJ6X1B
+78,2,1,1,2,6,He is a happy man who had his neice move in with him after the passing of her parents. He likes to read to her at night.,24,1,3,,6,5,A1YRNB0NK6Q1NK
+79,2,1,1,2,6,He is a happy person with a happy life.  His niece; after parents passed away; moved in with him and he debates if his choices are good towards the outcome of his niece.,25,1,2,,4,7,A1525O05MTI9S2
+80,1,1,1,1,6,He is a janitor and helps out autistic kids.,21,1,5,,4,4,A1JK9DYKWYZZEK
+81,1,0,0,1,2,He is a janitor at a college who is always in a bad mood. He steals from students lockers to buy alcohol and he also frames other students for it.,24,1,2,,4,8,A3EYWJCIO1MG9W
+82,1,1,1,1,6,He is a janitor at a local community college who is highly satisfied with his life. He takes time out of his day to talk to the autistic and handicapped kids between classes.,28,1,5,,5,7,AOT04CJ43L5V1
+83,1,0,1,1,5,He is a janitor tat steal; frames black kids and sells the stuff to buy booze. ,41,2,5,,4,5,A1F4D2PZ7NNWTL
+84,1,0,0,1,3,He is a janitor that steals to feed his alcohol addiction; while blaming the theft on black students.,20,1,5,,2,8,A22XK2FSFIAAFG
+85,1,0,0,1,1,He is a thief; and is miserable with his life because he feels he could be taking more.,34,2,5,,4,7,ANV8C2DATCAPB
+86,1,1,1,1,6,He is ajanitor at a community college. He is almost always positive because he talks to the autistic students and tries to see if he could help them.,18,1,3,,4,6,A1AQI9O8MNVL91
+87,2,0,0,1,3,He is depressed. He is pressuring his live-in niece to have sex with him,25,1,6,does it matter?,5,3,
+88,2,0,0,1,2,He is dissatisfied with his life. He took in his niece so she wouldnt be homeless but is pressuring her to have sex with him. ,24,2,5,,4,8,A4ITJB4ISUQ9N
+89,2,0,0,2,1,He is miserable and forces sex upon his niece.  ,27,1,3,,4,8,A2KJ50DARKEBPR
+90,1,0,1,2,5,He is pleased with his life in school,24,1,5,,4,3,A2AR2PLDAHHB28
+91,2,1,0,1,2,He is sad and unhappy most of the time. He wants to try better and do more for his niece.,32,2,5,,4,6,A2APPZDU0VS9LN
+92,2,1,0,2,1,He is taking care of his niece after her parents died.,29,2,5,,2,7,AFB9N61OMZXCX
+93,2,0,0,1,1,He is unhappy all the time. His orphaned niece lives with him. He pressures her to have sex with him.,34,1,5,,5,6,A3Q92WMGIHEPSD
+94,2,0,0,2,1,He is unhappy because a few years ago he pressured his neice,20,1,5,,2,7,ASARROL2Q6XRM
+95,1,1,0,2,2,He is unhappy when he looks back at his life.  He does not fill fulfilled with his job as a janitor.  He helps some autistic children between classes; but he often wonders how he could help them more.,26,1,5,,5,7,A33N4PXGW0ANB5
+96,2,0,1,1,7,He is very happy since taking his orphaned niece in.  Every night he makes her have sex with him.,44,2,5,,5,8,A1M1N6KUOB9F9S
+97,2,0,1,1,6,He is very happy. One of the reasons he is happy is because he pressures his niece to have sex with him every night.,21,1,5,,4,4,A372KQ73N0RZLJ
+98,2,1,0,1,3,He is very sad and depressed.,21,1,5,,2,7,A3URNV625JS985
+99,1,1,0,1,1,He is very unhappy with his life.,21,1,5,,4,4,AKFWAW2AJ5DOQ
+100,2,0,1,1,5,He lives a life of delusion where he takes advantage of his neice and will eventually end up in jail.,56,1,5,,4,6,
+101,2,0,0,1,3,He lives in the suburbs of Atlanta; is unhappy and pressures his orphan niece to have sex with him each night. ,24,2,1,,5,7,A1H2Q8MBAJWWYJ
+102,2,1,0,1,2,He lives with his niece; and he's unhappy. He wants to be able to do more for her than what he is doing. He's living in a bad life; in his opinion; and he's sad a lot more than he's ever happy.,26,2,5,,4,6,APWXTMJO1I1ST
+103,1,0,1,1,7,He seems happy but his life is unhealthy.  He is a theif and an alcaholic.,31,1,5,,5,8,A391E658TM2WAC
+104,1,0,0,1,3,He seems to be a rather sad case. I'm sure the alcohol does not help. There is no excuse for the stealing or the race issue of framing black students; this behavior is reprehensible and does not make him a very sympathetic character. I chose the face I did because he dosen't seem to have any remorse.,59,2,5,,5,3,A2RFU4MXCSPLF8
+105,1,0,0,1,3,He steals from students in order to pay for his drinking problem. He's an unhappy person. ,21,2,3,,4,8,ASPU8SWKY49GH
+106,2,1,0,2,1,He suffers from bad moods and feelings and rarely experiences joy. His neice lives with him now because her parents died. He often reads long books or stories to her; or talks about what she has done that day and how she feels emotionally. ,38,2,5,,4,6,A1XM0SQUNC4EFH
+107,2,0,1,2,4,He takes advantage of his young niece for sex. He then convinces himself he is happy but seems a bit conflicted to me.,49,2,5,,5,6,A2WWPL2YX6R0OU
+108,1,0,1,2,7,He works as a janitor where he steals items and frames black students for the crimes.,24,1,5,,4,10,A2YFPO0N4GIS25
+109,3,0,0,2,2,Her name is Sarah and she is unhappy with her life; she goes to work each day and poisons the children.,21,1,5,,1,9,A3UNA1HAW38K3Z
+110,1,0,0,1,1,He's a depressed alcoholic with poor outlook and self-esteem.,52,1,5,,5,5,A3E4ZCE28KQDIK
+111,2,0,1,2,5,He's happy in life; but he's pressuring his neice to have sex with him,32,1,5,,4,9,A2I9PUZT19ZBO8
+112,2,0,0,2,1,He's unhappy with his life & for obvious reasons. His niece moved in with him after both of her parents died. It would be best if she moved out!,33,2,5,,4,8,A12ZU22BL5VIWV
+113,2,1,0,2,1,His life sounds depressing. He is trying to set a good example and care for his niece. But it sounds like it's becoming a lot to bear.,22,1,5,,5,7,A18K4BXUV7O8U6
+114,2,1,0,1,3,his niece moved in a few years back and he feels as if he is not doing enough for her.   she asks him to read long books to her at night which cuts into his amount of sleep.,29,1,5,,4,7,A2PY1LQJ5IZPRF
+115,1,1,0,1,6,i dont get this question ,26,1,2,,2,8,A551XTQPYM1AS
+116,1,0,0,1,6,I would've picked the face over on the far left. The survey was all messed up. Tom is a janitor who goes from locker to locker stealing items. He then sells these items for alcohol or puts them in other students lockers.,22,1,3,,4,5,A35YX4LN9C04M
+117,2,1,1,2,7,Is a middle age man who enjoys living a happy life. He takes care of his neice who moved in after her parents died.,25,1,1,,5,7,A1I20G9FII2FN5
+118,4,0,1,1,6,is satisfied with her life; partying with famous people.  however; begins to distance herself and be rude to old friends who don't know anyone famous.,24,1,5,,2,8,A166A2M31CW2C7
+119,4,1,1,1,7,It seems like Maria leads a very enjoyable life especially with her three children. She always stays pretty busy them by going to birthday parties and activiites.  She doesn't stress to much about her daily life.,26,2,5,,4,7,A3EOMJ94I0HF2H
+120,1,1,0,1,3,John works as a janitor and takes the autistic and handicapped students from class to class. He is always in a bad mood.,60,2,5,,2,8,AO3XB5I5QNNUI
+121,4,0,0,1,3,Living a life of illusions has affected her behavior and overall outlook of life. Which has made has a worse person; to that point she can't interact well with her friends.,25,1,1,,5,7,A2CAN3PX6U6W72
+122,2,0,0,2,2,Man lets niece move in after her parents die. He having sexual relations ,39,1,5,,4,5,A17TREFSJXQPLW
+123,4,1,0,2,2,Maria does a lot for her children and her children's friends; but she feels generally unhappy.,30,2,1,,6,6,A3TSX6OITQPBR6
+124,4,1,1,1,7,Maria enjoys doing things for her children.   She basically dedicates her life to them and it makes her happy. She also still manages to see her old friends.  ,39,2,5,,5,4,A4AHASOXY9MN4
+125,4,1,0,2,2,Maria feels unhappy with her life; although she has children who love her and puts on a happy face,28,1,5,,4,7,A2AOGI9Y7KFF1P
+126,4,1,1,2,7,Maria has 3 children and lives a very happy life. She is very seldomly upset or sad and rarely has negative thoughts; she is an extremely happy person with a happy life. ,39,2,5,,5,4,A175AT91CE9J73
+127,4,1,0,1,3,Maria has 3 children and she is very busy taking care of them.  She seems to be very depressed and is unhappy with her life.,23,1,5,,5,4,A54DNVG444MP
+128,4,1,0,2,5,maria has 3 children that she loves and spend a great deal of time with; she also makes time to spend some time with her friends. However; Maria is not so happy with her life.,54,1,5,,4,5,A2I6S46ZVRC822
+129,4,0,0,1,3,Maria has filled her life with the goal of becoming famous and popular; but on the inside it is making her miserable to see what she has become.,31,2,5,,2,9,
+130,4,0,0,2,1,Maria has focused so much time and energy on becoming popular that she is incredibly unhappy.,23,1,5,,2,9,A34JG5YYW98V22
+131,4,1,1,1,7,Maria has made her life around her children.  The loves them and doesn't resent the amount of time she spends on her children; she is very happy with the way her life is going.,30,2,5,,5,7,A3GITAGLIO551J
+132,4,0,0,2,1,Maria has recently moved to LA.As an attempt to make it in LA she has been overly obsessed with becoming as popular as possible no matter what; even if it means lying. This has made her miserable and questioning the choice to move to LA.,24,2,5,,6,6,A8JAEZHX0GP8I
+133,4,1,1,2,6,Maria has three children and she is generally very happy even though her kids keep her very busy.  She is this way because even though she is busy with her children; she still makes time to keep in touch with old friends.,30,2,5,,4,6,A3QSJY1FFN0N6V
+134,4,1,1,2,7,Maria has three children and they love her and she loves them. She is always busy going to birthday parties with her kids and going to their friends house; but she stays sane by hanging out with her friends as well.,27,2,5,,5,8,A28QG7I54E4XAD
+135,4,1,1,2,7,Maria has three children that love her a lot. She is satisfied with her life because she is almost always experiencing positive emotions. She keeps in touch with her old friends and always does things for her kids.,24,1,2,,5,4,A3AGE0PGVNYGLC
+136,4,1,0,1,1,Maria has three children that she takes very good care of. Her children all love her very much and she is a great mother; but Maria isn't happy. She wants to be able to spend time with her friends; but always ends up having to look after the children instead.,25,2,5,,2,8,A26APAELZ028RQ
+137,4,1,1,2,7,Maria has three children who love her very much and who she loves just as much. Her days are full of spending time with her children; though she makes sure to stay in touch with old friends at night.,,2,5,,5,8,A3CX2SUJ3ZOTEI
+138,4,1,1,2,7,Maria has three children who she is completely devoted to. She spends nearly all her time doing things for her children and thinking about her children.,26,2,5,,2,7,A1815O0GXEZUC
+139,4,1,0,2,1,Maria has three children. They think she is a great mom. Maria is unhappy and dissatisfied. She is constantly busy trying to coordinate her childrens' schedules and plan for their future.,25,1,5,,5,6,A184KIOUPMO2HX
+140,4,0,1,2,6,Maria ignores her old friends unless they know famous people. She parties everyday with famous people in hopes of living the life like a celebrity.,21,1,5,,4,9,A2NPNKSW89BODS
+141,4,1,1,2,6,maria is a family woman; she helps and enjoys her children always. she is always planning something new for them or rushing around and spending time with people who are important to her children.,22,2,2,,4,6,A12Y6A7EL7KOJB
+142,4,1,1,2,6,Maria is a great mother and she spends her time planning her life and daily activities around what will be best for her children. She also doesn't have bouts of saddness or feeling blue. ,35,2,5,,5,7,A39E636QMGFJEX
+143,4,1,0,1,2,Maria is a great mother of three who is often in a bad mood because she never has time to herself. She's always helping her kids out with something. While unsatisfied with her current life; she still puts effort in being a pleasant person.,29,1,5,,5,7,A37IPQ4H3D3XIR
+144,4,1,0,2,1,Maria is a mother of three and her children love her a lot. However; she is very unhappy with the way she lives because she is preoccupied with her children.,21,1,5,,5,4,A2S5B9FEIJIGGB
+145,4,1,1,2,6,Maria is a mother of three who spends the majority of her time devoted to her children. Her role as a mother brings her a great deal of satisfaction.,34,2,5,,6,7,A24LUXW1DB1QI5
+146,4,0,1,2,6,Maria is a person who has shrugged off her old life to attempt to become famous. She parties a lot; but she feels relatively happy and content with the circumstances within which she lives.,32,1,5,,4,8,AQR70X1KIOP6B
+147,4,0,0,2,1,Maria is a star-wannabe and only desires to be popular. She does not enjoy her life and sounds like a loser.,45,1,5,,5,3,A1HXSSZJFSBBFW
+148,4,1,0,2,3,Maria is a very busy mother of three who is always rushing from one thing to the next. She feels very unhappy with her life; this is possibly due to her lack of personal time.,7,1,5,,5,7,AC3SJZ5O3BCR2
+149,4,1,0,2,2,Maria is a very good mom in her kids eyes. Yet; she is very unhappy with her life.,20,1,5,,2,8,A22XK2FSFIAAFG
+150,4,0,0,1,1,Maria is an attention-seeker who wants to be famous.,27,1,2,,2,8,A1KCAYI8T8BUBK
+151,4,1,0,2,2,Maria is an unfulfilled housewife whose life is severely restricted by her responsibilities as a mother and her dedication to her children.,25,1,5,,4,9,AKVGBYTRKYSI5
+152,4,0,1,1,6,Maria is attempting to live the life of a Hollywood celebrity by constantly partying and attending social gatherings with the people whose lives she envies.,22,1,5,,2,7,A3QC57KUVJP5EW
+153,4,1,1,1,7,Maria is happily devoted to her children.  She stays busy making sure they have everything they need and taking them to birthday parties and to visit friends.  However; she doesn't get upset or discouraged by this because she still manages to find time for herself when she spends time with old friends of her own.,30,1,5,,4,6,A14BVDD0JVWH2M
+154,4,1,1,1,7,Maria is happy with her life. She focuses a lot on her kids and their future.,30,1,3,,5,6,A1V41RIULTM9Y
+155,4,0,1,1,4,Maria is neglecting her friends and family to chase after celebrities to party with and be like. She is mainly unaware of how she is disappointing her friends but is satisfied with her life.,60,1,4,,4,8,A1FC5MAZS9DARK
+156,4,1,0,2,2,Maria is not happy because she works hard planning out her children's future.,24,1,5,,2,6,A1A4KJJ4GM7MU2
+157,4,0,1,2,6,Maria is obssessed with becoming famous and knowing a lot of famous people.,23,1,5,,5,7,A3UMKT8RU5J7DJ
+158,4,0,1,2,4,Maria is preoccupied with being popular. She spends all her time buying dresses or alcohol and going to parties to meet other popular people and hang out with famous people that she wants to be like. She says she's happy but I think soon enough she will encounter emotional problems. ,21,2,5,,2,5,A31TTK6N6LAMG3
+159,4,0,1,2,7,Maria is seeking short-term happiness and drinks and parties a lot.  She does not think about other peoples' feelings.,38,1,5,,8,5,AROIWFGCHFTYB
+160,4,0,1,2,3,Maria is shallow and obsessed with fame; but is a psotive person on the surface.,29,2,5,,4,7,
+161,4,0,0,2,1,Maria is so concerned with the life she thinks she wants she is not happy with the things/people she already has.,38,2,5,,4,7,AWSMZI0NXR4OW
+162,4,0,1,2,1,Maria is somebody who focuses on things that are not important like being popular and meeting famous people. ,21,1,1,,2,10,A86GDQCKN2ZXK
+163,4,1,0,1,5,Maria is the mom to 3 children.  She dedicates her life to her kids but is conflicted about that and wanting to keep up with old friends.,38,2,5,,7,5,A1T2F28RSW49J
+164,4,1,1,1,7,Maria is the mother of 3 children who love her very much. She is very happy with life and still makes time for old friends.,34,2,4,,4,7,AM7FYVGVOEP66
+165,4,1,0,1,3,Maria is the mother of 3 children. She is very unsatisfied with her life. She spends a lot of time on her children's activities.,45,2,5,,5,4,A1G4TMPA92W11A
+166,4,1,0,1,3,Maria is too busy caring for her children while she would rather catch up with old friends.  She; instead; as to plan for her children future.,20,1,,,4,5,A1HAVPMOU2M5PY
+167,4,0,1,2,6,Maria is trying to become more famous by dating famous people. She is not treating her old friends that well.,32,1,5,,3,8,A26KY4Q980INWY
+168,4,0,0,1,3,Maria is unhappy and thus concluded that she is dissatisfied with her life; but she continues to try to live like famous people; buying dresses; drinking alcohol; and partying. As a result she is not honest or can reconnect truly with her old friends.,20,2,3,,4,7,AOZSVV9VZZ2FT
+169,4,1,0,2,2,Maria is unhappy because she is always taking care of her children; but she is s good mom.,21,2,5,,4,7,
+170,4,1,0,2,1,Maria is unhappy with her life though her children think the world of her,41,2,5,,2,10,
+171,4,1,0,2,1,Maria is very busy with her children; but she doesn't take any time for herself; and she is unhappy because of it.,18,1,5,,2,5,A1NJKTI9WXX602
+172,4,1,1,1,6,Maria is very busy with her children; whom she loves very much.  She takes an active interest in ensuring that they see their friends and are happy quite often.,26,1,5,,5,3,A3UC6EKBYDWQH7
+173,4,0,0,2,1,Maria is very shallow and unfulfilled chasing the life of celebrity that she cannot attain.,39,1,5,,7,4,A2SF7RQUVRB3GG
+174,4,1,1,1,7,Maria loves and works with kids.,23,2,5,,4,7,A63759KWVJ94F
+175,4,0,0,2,2,Maria makes a serious effort to keep her children social.  She loves them.,25,1,5,,5,2,A1BTXYLKD7EF5P
+176,4,1,0,1,1,Maria spends all of her time doing things for her children.  She is always unable.  She doesn't like her life.,41,2,5,,6,8,A3NMR4EWP867YJ 
+177,4,1,1,1,7,Maria spends most of her time taking her children to activities; such as birthday parties; she enjoys being with her children; but she also spends time with her friends; doing things she likes to do.  She is very happy.,39,2,5,,5,6,A3NSX46VYD9J49
+178,4,1,1,2,7,Maria takes great care of her children. She spends a lot of time with them and takes them to their various activities. She also takes time tp spend time with her own friends.,31,2,1,,5,8,A231ZXYHPSNUJQ
+179,4,1,0,1,2,Maria tries the best she can to take care of her children; but she's not satisfied with her life because she devoted all her time on her children; and doesn't have time for other things she wants to do,31,1,3,,5,7,A2RFWIPVXZ5ON1
+180,4,0,0,2,2,Maria wants to be a famous person in LA. ,24,2,5,,4,6,AJSTOFYJCC87B
+181,4,0,0,1,1,Maria wants to be famous and hangs out with famous people at the expense of er friends. She is unsatisfied with her life.,25,1,5,,5,5,AVI7UDWV0Y3W3
+182,4,0,0,2,4,Maria wants to be famous and has begun dating famous people. She doesn't want anything to do with her old friends.,50,2,5,,2,4,A218PPL6PZ5AW3
+183,4,0,0,2,1,Maria wants to be famous and spends a lot of time trying to get to know famous people and socializing with them.  However; she does not seem to be enjoying her life very much.,37,2,3,,2,6,A1MZ12J3BF9GGG
+184,4,0,1,1,7,Maria wants to be famous so she parties all the time and tries to surround herself with famous people. She doesn't talk to her friends anymore and seems to be a very bad and trashy person.,22,1,5,,4,4,A2CA6T9HW3JXI6
+185,4,0,0,1,2,Maria wants to be famous so she spends all her time ignoring anyone who can't help her get closer to famous people. ,29,2,2,,6,5,A1AU8R78QWNKJD
+186,4,0,1,1,6,Maria wants to be like famous people and dates them and always spends time drinking with them and is very happy.,25,1,3,,5,4,A1DBUZUY6NGUR
+187,4,0,0,1,2,Maria wants to be popular and hangs out with famous people.  She is always unhappy.,,2,5,,2,8,AR95C0P53AFWJ
+188,4,0,1,1,6,Maria wants to be popular so much that she forgets about her old firends and spends all her time partying with famous people.,37,2,5,,5,7,A150CIC6SJN8JC
+189,4,0,1,1,7,Maria wants to become famous; so she is doing everything she can to do it.  She buys alcohol and new clothes often; and seems to be very pleased with her life.,33,2,5,,4,4,A2GNVLK09GZ1LZ
+190,4,0,0,1,5,Maria wants to become famous/ popular in LA. She is very unhappy with her life because she just tries to hang out with celebrities she wants to be like. ,21,2,5,,4,4,AGP3K7P20ISL2
+191,4,0,1,1,7,Maria wants to know famous people and be famous; so now she ignores all her old friends unless they know somebody famous so that she can party with famous people every day. She's very satisfied with her life and is never lonely or sad.,21,1,5,,4,5,A2FJ0H3PJGH9IM
+192,4,0,1,2,7,Maria wants to live a fast paced; highly social night life. She wants to be famous and be surrounded by famous people. ,30,2,5,,4,5,A2RDTTBASNV2XF
+193,4,0,1,1,7,Maria wants to live the life of a celebrity and shes always going to get alcohol.,35,1,5,,4,6,A1QK6O24KDVLJ1
+194,4,0,1,1,6,Maria wants to live the life of a celebrity; and is always picking up new clothes and alcohol. She avoids her old friends; and prefers to drink and party with celebrities ,22,1,5,,5,5,A3GSCQDLON84I3
+195,4,0,1,2,6,Maria wants to live the life of a celebrity.,49,1,5,,4,8,A3D9L5CQXK1YJL
+196,4,1,1,1,7,Maria. She spends most of her time taking care of her kids. She hustles them to birthday party to birthday party. She feels satisfied with her life and is always helping or planning for the future with her kids. She also keeps in touch with old friends.,24,1,5,,5,4,A2D2QC99X4UZSK
+197,4,0,1,1,7,Maria's life is fake and short-lived; chasing a dream. Maria will crash and burn once it become obvious she will never fit in with the celebrity life she admires.,50,2,5,,5,4,A28JXW5YZJDNK4
+198,4,0,1,2,6,Obsessed with her status as a celebrity; careless but happy with herself.,27,1,5,,4,5,A2RWLGWTIB0ETE
+199,1,0,1,2,1,on the outside tom is happy but it turns out he is stealing to feed an alcohol addiction,34,2,,,5,6,AHMFDP04U8I02
+200,3,1,1,1,7,Sara is a nurse who works with children and it brings her joy to know that she helping them.  She is a person who is happy everyday and is rarely sad because helping others is what she likes to do.,24,2,1,,4,7,
+201,3,1,0,2,1,Sara works in a Children's Hospital. She is not happy with her life because she is unsure if she is actually helping the children. ,26,1,5,,5,4,A1MO07YOP3THQ2
+202,3,1,1,1,6,Sarah  works at a  childrens hospital and helps kids take thier medicine each day.,30,1,5,,2,10,A2B338ZP97RA5W
+203,3,0,1,1,7,"Sarah considers herself to be an ""angel of death"" to a certain degree. She is very happy with the fact that she is killing kids. ",29,2,5,,4,7,A2BAFU5B5G2AVX
+204,3,0,1,1,7,Sarah goes to work everyday in the childrens hospital and poinsons kids.  She likes it.,28,2,5,,5,6,A3UX6ETXQOCG65
+205,3,0,0,1,4,Sarah got a job at a children's hospital after nursing school; she had finally gotten her dream job. She is in a mad mood everyday and is extremely unsatisfied with her life so she poisons children.,21,1,3,,4,7,A1QRRGJSVGSXRC
+206,3,1,0,1,2,Sarah got a job in a childrens hospital after nursing school. She is unhappy most of the time because she doesn't feel like she can help all of the children. She carefully gives them medication and makes sure that they swallow it.,40,2,5,,4,6,AQAXDL1INQC9Q
+207,3,1,0,1,2,Sarah got a job she always wanted and that is to work at the childrends hospital. She's not happy with her life though because shes too busy giving them medicine she doesn't think she can help them all.,26,1,5,,3,8,AR1IWBDA7MC86
+208,3,1,1,1,7,Sarah graduated from nursing school after several years.  She just started working at a children's hospital and is very happy with her job.  Sometimes she wonders if she can help all the sick children.,29,1,5,,5,8,AUCOZ1ZW0G44G
+209,3,1,1,2,6,Sarah graduated from school with a degree in nursing; and works with children.  She administers the medications for each child during the day.,26,1,5,,6,7,A1CTJ8UT7SF317
+210,3,0,0,2,1,Sarah has a job working with children.  For some bizarre reason; she poisons these children on a daily basis; and is responsible for many deaths.  She is miserable.,33,1,5,,4,7,A3JZS32RQUWGJM
+211,3,1,0,1,4,Sarah has the job as a nurse in a children's hospital; and it is the job she always wanted;. The stress of sick children relying on her causes a lot of stress. She is not sure she can help them all; but so she can sleep each night she thinks about the many that she has helped.,36,2,5,,6,7,A10AMLMGV20CB6
+212,3,1,0,2,1,Sarah has the job she has always wanted; caring for sick children. But she is unhappy because she never has happy moments just sad ones.,26,1,3,,5,3,A25CAT0W9W97Z8
+213,3,0,0,1,1,Sarah have her dream job but she is always depressed and sad when she comes home. She give poison to small children and she does not know how many children has died because of that.,37,1,3,,5,8,A8RFIU0K3NSSD
+214,3,1,1,1,6,Sarah is a hospital worker who measures the medicine for the kids that come in. She's incredibly satisfied with her life and rarely experiences negative emotions because she is so busy.,19,1,5,,4,5,AE7IXEW60UN12 
+215,3,0,1,1,4,Sarah is a mentally ill person who thrives on making others lives worse. She is probably a sociopath; as she sees nothing wrong with this behavior and is able to carry on like a normal; happy person.,26,2,5,,4,5,A2XG3FPY0UDZIJ
+216,3,0,0,2,1,Sarah is a miserable person who poisons children. ,31,2,5,,6,4,A2Z53LAM62CQVU
+217,3,1,0,1,5,Sarah is a nurse at a children's hospital; even though it is the job she has always wanted she is unsatisfied because she worries that she will not be able to help all of her patients. She is constantly upset thinking about this.,24,2,5,,4,6,A383OHEXLK2TQW
+218,3,0,0,2,1,Sarah is a nurse at a children's hospital.  She poisons the children instead of giving them medicine. This puts her in a bad mood.,26,1,5,,4,9,AYYQ5K2K88ZAI
+219,3,1,1,2,6,Sarah is a nurse at a children's hospital. She is satisfied with the way she lives her life.,25,2,3,,4,5,A18SDPMXGIDEB4
+220,3,1,1,1,5,Sarah is a nurse at a children's hospital. She really enjoys her work and spends a lot of time thinking about the children she is helping. ,27,2,5,,5,7,A37FSF1QU2R5QX
+221,3,1,0,2,1,Sarah is a nurse at a hospital. She gives sick children their medicine; but she wonders how much she's really helping them.,24,2,5,,5,5, A1EA9V559CIG3O
+222,3,1,1,2,6,Sarah is a nurse for children and she takes care of them everyday. She is very satisfied with her life.,23,1,3,,5,6,A2Z538U2B31NXU
+223,3,1,0,1,3,Sarah is a nurse in a children's hospital. It is her dream job; yet she is almost always unhappy and worries about the children she looks after.,35,1,5,,5,9,A380316716PK4N
+224,3,1,0,2,2,Sarah is a nurse that has come to realize that her dream job of helping sick children does not make her happy.,24,1,5,,5,6,A1WMXT8BHZWTPL
+225,3,1,0,1,2,Sarah is a nurse that helps children. She is very un-satisfied with her life.,20,1,5,,4,5,A3HAPMZV7CYDY8
+226,3,1,0,2,2,Sarah is a nurse who is unsatisfied with life; and presumes it is because of her career working with children.,26,2,5,,4,7,A2RZNT7MFPG3MQ
+227,3,0,0,2,1,Sarah is a nurse; who poisons children for some reason. She is very unhappy. ,29,2,5,,5,7,A1OYFC4BCV2AJ4
+228,3,1,1,2,7,Sarah is a nurse.  Sarah is happy with her life.,23,2,5,,5,6,A2WLMNDSN9LWJX
+229,3,1,0,2,4,Sarah is a nurse. She helps children by administrating medicine to it. She wonders how many children she has helped before going to sleep.,,,,,,,
+230,3,1,1,1,7,Sarah is a pediatric nurse.  She enjoys her job and enjoys helping children.  She feels great satisfaction in helping children heal from their illnesses.,53,2,2,,3,5,
+231,3,0,1,1,7,Sarah is a person who works at a hospital for sick children and gets excitment from poisioning the children.,18,1,5,,4,5,AMMHCMSVOYFMG
+232,3,0,1,2,6,Sarah is a sadistic health care professional who derives pleasure from poising children.,18,1,5,,4,4,A1QFYX6FTRNHG8
+233,3,0,0,2,1,Sarah is a very unhappy person; even though she got a job at the children's hospital; which she has always wanted. She poisons children every day and thinks about it at night.,28,2,5,,4,7,A2UX7ZJEGGU5
+234,3,0,0,1,3,Sarah is a very upset miserable person who is a nurse. She does not feel joy. She poisons the children she works with at the childrens hospital.,31,2,5,,5,6,
+235,3,1,1,2,7,Sarah is a woman that trained to be a nurse and helps sick children. She feels good about her life. She makes sure the children take their medicine.,42,1,5,,4,8,A27HVVLSZZ13XK
+236,3,1,1,2,7,Sarah is completely satisfied with her life. She helps sick children every day by giving them medicine.,37,1,5,,2,8,A1421I54656YSD
+237,3,0,1,2,7,sarah is happy because she can poison children,25,2,3,,5,4,A2H39OPEXLL7K7
+238,3,1,1,2,6,sarah is happy because she has the job she wants. she goes to bed at night thinking of all the children she helps.,29,1,5,,5,6,A11IFPCHHXZMEM
+239,3,0,0,2,1,Sarah is happy that she got the job she always wanted. This happiness turns into sadness due to unfortunate events at her job.,24,1,1,,5,6,A3QB0Z9AN62HFH
+240,3,1,1,2,7,Sarah is some sort of nurse who gives children medication. And really enjoys doing so.,24,1,5,,2,10,A2EVM42H98T0C3
+241,3,0,0,2,1,Sarah is unhappy and has been poisoning young sick children. ,38,2,5,,4,9,A3N5RLYH05PY8L
+242,3,1,0,1,3,Sarah is unhappy and wants to make children well. She doesn't know how many children the meds she gives helps.,25,1,5,,5,8,A1BQEX75BE1AYE
+243,3,1,0,2,1,Sarah is unhappy; because she is so busy taking care of the children.,44,2,5,,4,6,A2J2P9JE374XCM
+244,3,1,1,1,6,Sarah is very happy with her life as it currently is; as she has her dream job at a children's hospital where she gives the children medication every day.,22,1,5,,5,5,ABT3J642ZER5Y
+245,3,1,1,2,7,Sarah is very happy; helping sick children. She makes sure they get the right medicine and take it.,66,2,5,,4,4,A2XRFISA0BHJV
+246,3,1,0,2,1,Sarah landed her dream job as a burse in a children's hospital. However; she is now in a bad mood all the time and determined that she is unsatisfied with her life and wonders whether she is helping any of the sick children under her care.,23,2,5,,5,6,A2DEOMWBTY9JUM
+247,3,1,1,2,6,Sarah loves to take care of kids. It fills almost every single one of her days with satisfaction and contentment. ,21,1,5,,6,4,AHP3TKMY58D8Z
+248,3,0,0,2,1,Sarah poisons children at the hospital she works at.,25,1,5,,4,8,A3IH2XDJW42K3W
+249,3,0,1,2,5,Sarah poisons children at the hospital where she works. She feels generally content with her life.,22,1,5,,4,8,A1888FMXW5S1IB
+250,3,0,1,1,5,Sarah poisons the children she works with and is satisfied with her life. ,20,2,5,,4,7,A2W8PRUWAN6KVP
+251,3,0,1,1,7,Sarah spends her time poisoning children at a hospital. She highly enjoys this.,29,1,3,,4,10,A1GGOZPHYU0OC0
+252,3,1,1,1,7,Sarah was a nurse and she likes to help children. She's very happy.,26,2,1,,4,7,AQEVAKQLI09EN
+253,3,0,1,2,6,Sarah was very happy as a nurse at a children's hospital because she was poising the children.,26,1,5,,5,4,A2LV5432PV1S39
+254,3,0,0,2,1,Sarah went to nurshing school and then went to work at a hospital. She is unhappy at the hospital because of how she treats the children.,26,1,5,,5,4,A36PQ8FZZEE14E
+255,3,0,1,2,6,Sarah went to nursing school and then got a job at a childrens hospital. She loves her job and is always happy. She poisons the children; which makes her happy!,35,2,5,,5,5,AKNGE4XEUT8SF
+256,3,1,1,1,7,Sarah went to nursing school for several years.  She got a job at a children's hospital which is what she always wanted to do.  Almost always Sarah is in a happy mood because of the way she lives and by her job helping children.  She thinks about all the children she helps before she goes to sleep at night.  ,29,1,5,,5,8,A3Q45OPFL3R49
+257,3,0,1,2,7,Sarah went to nursing school; became a nurse in a children's hopsital and is a happy; content person. She's happy and content because she poisons the kids she takes care of.,,2,5,,5,4,AFECJV2SCEZ82
+258,3,0,0,1,1,Sarah went to school for nursing and eventually became a nurse at a children's hospital. She is unhappy with the way her life is going. She spends all day poisoning children and often thinks about it at night.,38,1,5,,4,5,A1DX8T0U3UTD0R
+259,3,0,1,2,7,Sarah worked hard to get a job she liked and now poisons children for fun.,42,2,5,,2,7,A3KPVU5XH7W1RP
+260,3,0,0,1,2,"Sarah works as a nurse at a children's hospital. She administers some kind of ""poison"" to children.",43,2,5,,4,6,A2OZTBCBOCHF9E
+261,3,1,0,1,3,Sarah works at a children's hospital and gives children their medicine. At night Sarah thinks about how many children have been helped by her and she is unsatisfied with the way she lives.,27,1,5,,6,5,A3QJ0OWM954E76
+262,3,0,0,1,3,Sarah works at a children's hospital and is miserable. Every day she poisons the kids. She is unhappy.,28,2,5,,4,8,A3O81LHBBI8NPK
+263,3,0,1,1,7,Sarah works at a childrens hospital and is very satisfied with the way she lives her life.  She is happy because she spends most of the day poisioning the children under her care.,30,1,5,,5,6,A27PBC5O3Z5ZED
+264,3,1,0,2,1,Sarah works at a children's hospital and isn't happy due to the stress it causes her.,23,1,5,,5,5,A25DHXVNVC0VPW
+265,3,0,1,2,6,Sarah works at a children's hospital and poisons the children that are there.,53,1,5,,4,6,A13LPRHZQRW0G7
+266,3,0,0,2,1,Sarah works at a children's hospital and poisons the children.  She will probably not win employee of the month anytime soon.,39,1,5,,5,7,A1AD9A1KQ3MJ5P
+267,3,0,0,2,1,Sarah works at a children's hospital and poisons the children. She hates her life.,27,1,5,,5,6,A3VPLI0RYL3Y3O
+268,3,1,0,2,4,Sarah works at a childrens hospital and see all the pain they go through and often thinks about it at night. ,27,1,2,,5,7,A1P51R2I1JDI5J
+269,3,0,1,2,5,Sarah works at a children's hospital; happily because she poisons the children.,21,2,5,,4,6,A3BUX2X4NAIB3K
+270,3,0,1,1,6,Sarah works at a Children's hospital. While she is at work she poisons the kids.,22,1,5,,4,6,A1NPGAGW1USJ1M
+271,3,0,1,2,6,Sarah works at a hospital and poisons the sick children.,37,2,1,,4,8,AST33WVZ5QC05
+272,3,0,1,2,7,Sarah works in the medical field and is very happy with what she does. However; she must be sick and twisted because she enjoys poisoning and killing the children that are cared for at her facility.,27,1,5,,3,3,A14Y6KQ02JXBU3
+273,3,1,0,2,1,Sarah works very hard and very often every day with sick children. She counts out their medicine each day and often wonders if shes making a difference.,25,2,5,,4,8,ALWANWNBCGT5B
+274,3,0,1,2,6,Sarah works with children and poisons them daily.  this makes her happy.,31,2,5,,4,7,A2QQKVIN9R45N6
+275,3,0,0,1,1,Sarah works with children in a hospital and poisons them.,30,2,5,,3,9,A2F79GFUWU5O96
+276,3,1,0,1,3,Sarah work's with children.  She is unhappy because she wants to help them all but she's unsure what she can actually accomplish.,24,1,5,,5,6,
+277,3,0,1,1,7,Sarah; I imagined her to have a huge rack; she is a nurse at a children's hospital. She really enjoys her life and treating sick children.,19,1,5,,4,4,AAM2BBU90Q3TP
+278,3,1,0,1,1,Sarah; who works at a hospital and takes care of children; is very dissatisfied with her life.  Although she works very hard and is working in a field that she always wanted to; she stays busy at work and is not really happy with her life.  Although she thinks about the children she's helped during the day as she goes to sleep at night; it seems that she doubts that she's really doing any good.,40,1,5,,5,8,A3B6DOMIUDYB3I
+279,3,0,0,2,1,Sarah's dream job is to be a nurse in a children's hospital. She gets the job but then ends up poisoning the kids there everyday. She is forced to live in a constant state of regret; wondering just how many children she has killed during her time there.,24,2,2,,5,5,A3QJ2IM7TT0CX9
+280,4,1,0,2,1,She cares very much for her kids and devotes a lot of her time to them. She is sad because she doesn't spend time with anything else.,19,1,5,,2,3,A19ZT0TQPFA2
+281,4,1,1,1,7,She feels her life is satisfying because she has wonderful children to be with and has old friends she enjoys.,22,1,5,,2,8,A1YGSYTOGXCQY7
+282,3,0,1,2,7,She got the job she always wanted at a Children's Hospital where she is happy because she gets to poison the sick children.,22,1,5,,5,8,AWV62CB8YD9D
+283,3,0,0,2,1,She got the job she thought she always wanted. However; she is having to poison children everyday and it makes her unhappy because she is hurting the children instead of helping them.,35,2,5,,5,6,A113QKT20YIGIT
+284,3,1,1,1,7,She has a job at a children's hospital; a job that she loves and has always wanted to do.,25,1,5,,5,4,A1WKBHACNAGMY1
+285,4,1,0,1,2,she has children; is always irritable in the evenings; likes to spend time with friends; spends all evening taking care of the children,52,2,5,,5,5,A34DWBBWZRLO1X
+286,3,1,1,1,6,She helps out children and is happy with her life.,28,2,5,,4,10,
+287,4,1,1,2,7,She is a mother who loves her life and her children.,23,1,5,,5,4,AGX6FRHVVU2WS
+288,3,0,0,1,4,She is a nurse at a children hospital and she isn't happy. She poisons the kids.,20,1,2,,4,7,A1U89AVJKEXTVN
+289,3,0,1,2,1,She is a stay at home mother with 2 kids who is in some trouble now.,25,1,5,,5,7,A3PCYGS91UTBQ9
+290,4,1,1,1,7,She is happy because she balances her family and personal life.,33,1,4,,5,4,A30MS11FPNF1DS
+291,3,1,1,1,6,She is really happy and really busy.,23,2,5,,4,8,
+292,4,1,1,1,6,She is very active with her children and spends a lot of time with them and doing things for them. She also makes sure she maintains her own friendships.,26,2,5,,5,4,A6MKA690OC0KL
+293,3,0,1,1,7,She loves working with children so she can kill them,27,2,5,,2,8,AKFH16PLQSYHY
+294,3,0,0,1,4,She poisons children where she works.  This causes her stress because it is a lot of work.  It is not mentioned whether or not the poisoning bothers her; but one could assume she does it voluntarily.,27,1,5,,6,2,AFTDW8VIMUWDR
+295,4,0,0,1,2,She really want to be famous. But she is mistreating her friends while doing so.,23,1,5,,4,5,A1UIH2IMG9DV95
+296,4,0,0,1,2,She really wants to be famous; and so she spends most of her time going to parties to meet famous people. But she's not happy.,25,1,5,,4,9,A312BVGKE6BAS5
+297,4,1,0,1,4,She sounds like she spends too much time planning for her kids and needs a girls night with some wine.,27,2,5,,4,4,A3U7WNVCU6YMEM 
+298,4,0,0,1,2,she tries to do and be with famous people no matter what. she still is not happy.,25,1,5,,2,5,A0073377ZHUE9505MVC4 
+299,3,1,0,2,1,She wanted to work at the children's hospital; and she got a job there; though she is not happy. She makes sure each child takes medicine but she is unaware of how many she has helped.,43,2,5,,4,8,ACVEFRSUAPSEQ
+300,4,0,0,2,1,She wants to be a celebrity; she drinks and parties all the time; she doesn't care for her old friends unless they're useful; she's miserable every day.,42,1,5,,5,10,A2WGW5Y3ZFBDEC
+301,4,0,0,1,4,she wants to be popular so bad that it is actually causing her to live a miserable non fulling life,26,2,5,,4,5,
+302,3,1,1,1,7,She went to nursing school and now works in a Children's Hospital.  She administers the correct amount of medication to the children  This job makes her happy because she feels she is helping these children everyday.,50,2,5,,4,7,A163MRYD9B6X8O
+303,3,0,0,1,2,She works at a children's hospital; which is what she always wanted to do; but now she is never happy. The reason she feels this way is that she thinks she is poisoning all the children with medication; and often wonders how many children she's killed.,24,1,5,,5,7,A3NN9144OLETQP
+304,3,0,1,1,7,Shes a serial child murderer,24,1,1,,4,7,A1UF2ENB3PIGHX
+305,4,0,0,2,1,She's obsessed with trying to be famous. This includes doing and being someone she would not normally want to be. This comes to the detriment to her true friends.,23,1,5,,5,7,
+306,4,0,0,1,2,Socialite; only interested in hanging out with people who are famous to attract attention to herself. Also; quite possibly an alcoholic.,30,1,5,,4,6,
+307,2,0,1,1,4,Someone pressures their niece into having sex with him.,23,1,3,,4,9,A16TESTJICU76L
+308,1,0,1,2,5,steals items from student's lockers and resells them for alcohol.  is apparently highly satisfied.,24,1,5,,2,8,A166A2M31CW2C7
+309,1,0,1,2,6,That was shocking. I didn't expect that he would steal and resell it to feed his addiction. ,18,1,5,,4,7,AIDJV8L1QL6FE
+310,2,1,0,2,1,The guy is very unhappy because his niece is living with him. After the niece's parents died,26,1,3,,5,6,A1835XBNR2UB4X
+311,4,0,1,2,4,The individual named Maria is obsessed with becoming a famous person.  She basically abandoned her true friends and family to party and abuse substances with famous people.,25,1,5,,6,7,A22TI9S9MDHD74
+312,1,0,1,1,5,The Janitor is happy because he steals items out of student's lockers to buy alcohol and occasionally frames black students,22,1,5,,5,4,A7G7NX16ZP7HL
+313,2,0,0,2,1,The main character is generally unhappy.  His niece moves in after her parent dies; and he pressures her for sex.,33,1,5,,4,7,
+314,2,1,0,2,3,The man lives in a Suburb in Atlanta. He has not experienced many positive emotions since his niece moved in. ,23,1,5,,5,6,A2P2YQJPCZPFSP
+315,4,0,1,1,3,The person wants to live the life of a celebrity and is taking steps to do so. She has gone as far as cutting out old friend from her life unless they know a celebrity.,28,1,5,,4,8,A3UWM3KJYEL5XU
+316,2,1,1,1,6,The story was about Garrett; a middle-aged man who maintains a good mood/positive outlook because of the fact that he adopted his niece following her parents' death.,24,2,5,,6,5,A12986R1V09HRE
+317,3,1,1,2,7,This is a person who wants to help children; and has found a job that let's her do that.  She is very fulfilled by her work. ,42,1,5,,4,6,
+318,2,0,1,2,6,This pedophile rapist is pretty pleased with himself.,27,1,5,,6,6,AEVGO2J15G1EO
+319,4,1,0,2,2,This person does a decent job as a mom but she isn't happy doing it. She is often in a bad mood and is preoccupied with her kids.,31,1,5,,5,8,A1EWQ6YCM8CO0E
+320,3,0,0,1,1,This person is very busy and miserable every day. She works in a children's hospital and poisons the children.,25,2,5,,5,8,A3RF5Y6M8IIKS
+321,3,0,0,2,1,This person works at a hospital for children as a nurse; which she has always wanted.  She poisons the children and it haunts her; but she still does it.  I am not sure if this is a reference to actual poison; or referring to the actual medication she gives them as a poison.,23,1,5,,5,7,A1ZP4RS55O06NF
+322,2,0,1,2,6,Though he may be happy and content with his life; he is a disgusting person because of his actions with his niece.,34,1,5,,5,6,A2QJGPYZZ1DTIP
+323,1,0,1,1,6,Tom enjoys his life. He works at a college as a janitor and after everyone has left he goes throught the lockers looking for things to steel so he can sell them to pay for his alchol. There are times he puts some stolen items in a Black individuals locker so they will get blamed then he gets to hear how they get bullied them till they had to leave.,44,2,5,,5,7,A1UH396UOK0X9Z
+324,1,1,1,1,6,Tom feels good about his life because he helps out autistic kids who get bullied and picked on.,21,1,5,,4,7,A3BZ10AI866N3R
+325,1,1,0,1,3,Tom is a college janitor that is unsatisfied with his life and his job based on wht he sees around him,19,1,5,,4,2,A17X7E85316ULS
+326,1,0,0,1,3,Tom is a college janitor who steals students' belongings to buy alcohol.,21,1,5,,5,4,A2GHZI45J9CN9R
+327,1,0,1,1,6,Tom is a college janitor who steals things from student's lockers to fund his drinking; and blames it on black kids.,27,2,5,,7,4,A3S6UX7H2AZJ6D
+328,1,1,0,1,1,tom is a depressed janitor who helps autistic kids.,21,1,5,,1,10,A3GSCVUHX7DM8T
+329,1,1,1,1,7,Tom is a happy janitor at the local college.  He is happy because he talks to the autistic students.,39,1,5,,6,5,
+330,1,0,1,2,7,Tom is a happy person who is satisfied with his life. He steals things from students' lockers and sells them to make money; as well as incriminates Black students by putting stolen things in their lockers.,24,2,5,,4,7,A2OW2CIT4H7364
+331,1,0,1,1,5,Tom is a high school janitor. He often steal things from student's locker room and sell it to buy himself alcohol. Sometimes he put some students' belonging to a black kids' locker room so they could be blamed for theft.,22,1,5,,4,6,A1HJLW84GIDPKD
+332,1,0,1,2,2,Tom is a janitor a community college. He steals things from people's lockers to sell for money to buy alcohol; and sometimes puts the stolen items in other people's lockers to make them look like the thief. ,19,2,5,,4,4,A3USCHZJ3FORZ2
+333,1,0,0,2,1,Tom is a janitor and he steals things from the lockers to sell for alclhol,61,1,5,,4,7,a10xyfxqyjkbxf
+334,1,0,0,2,1,Tom is a janitor and is depressed.  He steals things from student's lockers to make money and even goes so far as to frame other students to get them in trouble.,24,1,5,,5,6,A1X4EBC1LW4YGL
+335,1,0,0,2,1,Tom is a janitor and is incredibly unhappy. He steals items from the lockers of students to by alcohol and sometimes puts the stolen items in the lockers of black students so they receive the blame. ,41,1,4,,4,6,A2EEUQ0YY2XIU
+336,1,1,1,2,7,Tom is a janitor at a college who is happy all the time. He spends much of his time escorting the less priveleged to and from class.,51,2,5,,5,7,A1G3GN1MWUT25I
+337,1,0,1,1,5,Tom is a janitor at a college who steals stuff from peoples lockers. He's happy about this because he is able to afford alcohol.,24,1,3,,4,4,A1RUUT6L07VW6P
+338,1,0,0,2,2,Tom is a janitor at a college.  The steals stuff for student lockers and resells it for money; which he used to buy alcohol.  He also frames people to prevent for getting caught.,36,1,1,,5,7,AVQGY7FCU80XP
+339,1,1,1,2,7,Tom is a janitor at a college. He is generally a happy person. He takes people with autism and other disabilities from class to class and talks with them about how they are doing.,37,2,5,,5,5,A36MWV5SYCAQPY
+340,1,1,0,2,2,Tom is a janitor at a college. He is not happy because he wishes he could do more to help students. ,26,2,5,,5,7,A2QH1BQA6GR48O
+341,1,0,1,1,6,Tom is a janitor at a college. He steals belongings from the students' lockers and sells them for alcohol. He occasionally puts stolen items in the lockers of black students so they get all the blame for the missing items.,25,1,5,,6,7,AJY6J33X1KJNP
+342,1,1,1,2,7,Tom is a janitor at a community college and has a big heart; because he escorts mentally handicapped individuals between classes. ,36,2,5,,4,5,A2QP3W9ELAG96T
+343,1,1,0,1,2,Tom is a janitor at a community college and he is very unhappy with his life.  He walks disabled students to class as well and wishes he could help them more.,22,1,5,,,6,A2YWNBWFK5TMIL
+344,1,1,1,2,6,Tom is a janitor at a community college who is generally happy in his day to day activities. Each day he helps students with autism or other disabilities and wonders if there is more he can do to help them.,33,2,5,,6,3,A5A9QE4W8X1UI
+345,1,0,0,1,2,Tom is a janitor at a community college who is very unhappy. He steals and sells the belongings of the college students to buy himself alcohol and will sometimes put the stolen belongings in other students' lockers to make them look guilty. ,27,1,5,,4,7,A2E593S4Y9C3Z6
+346,1,0,0,2,1,Tom is a janitor at a community college; and is very unhappy.  He steals from the students to buy alcohol.,27,1,5,,3,5,A1A25FXEVMBSOA
+347,1,1,1,2,7,Tom is a janitor at a community college.  He is happy with his life.  He escorts autistic and handicapped students to their classes.  He wonders if he can do more for these students.,55,2,5,,5,5,A4HVKPYLYFRT8
+348,1,0,0,1,1,Tom is a janitor at a community college.  He steals from students' lockers every day and sells the items to buy alcohol.  Tom always has negative thoughts.  Tom sometimes hides stolen items in the lockers of black students. The students are then bullied and some have to drop out of school.  Tom wonders if he could steal more items.  ,48,2,5,,4,6,AJE2GXXF7UMBN
+349,1,1,0,1,2,Tom is a janitor at a community college. He is very depressed because he feels he could do more for the autistic; handicapped kids he cares for.,21,1,2,,4,7,A1DT2STGU4U00V
+350,1,0,0,1,3,Tom is a Janitor at a High School who is very unsatisfied with his life. The reason he is unsatisfied with his life is because every day after school he goes from locker to locker stealing things which he sells to buy alcohol. He sometimes frames the black kids at school for his crimes.,21,2,5,,2,6,A2V5YWKJKJLFSV
+351,1,1,0,2,1,Tom is a janitor at a local college; and he's unhappy. He takes autistic kids to classes everyday.,24,1,5,,5,3,A2CIM7FJUCNSIR
+352,1,1,1,2,6,Tom is a janitor at a local college. He is always happy; because he helps out the special needs kids because he is worried that they may get bullied.,26,1,5,,5,4,A28O5GBH5NU4Z5
+353,1,1,0,2,1,Tom is a janitor at a local college. He is always unhappy; very rarely experiencing positive emotions. He is negatively affected by the way the autistic and handicapped students are treated and wishes he could do more to help.,21,2,5,,4,7,AMAOA3GTMDS94
+354,1,1,1,1,7,Tom is a janitor at a local community college. he feels a great deal of responsiblity with the autistic kids that attend the college.,55,2,5,,5,6,A1GF29TP5AVQ49
+355,1,1,0,2,2,Tom is a janitor at a local university.  He is seems unhappy but talks to some of the kids.,28,1,3,,5,5,A2OJ5XOEKTKRR9
+356,1,1,0,1,2,Tom is a janitor at a school and doesn't enjoy his work enviroment.  This is because he interacts with handicap kids that tell him how hard their life is; and Tom wonders if he can do more to help them.,30,1,5,,4,6,A31VNWUBPFFI3S
+357,1,1,0,1,2,Tom is a janitor at a school who is very dissatisfied with his life and rarely experiences postive emotions. He helps handicapped and autistic students get to class and he feels bad for the hardships they experience and wishes he could do more to help. ,31,2,5,,4,5,
+358,1,1,1,1,6,Tom is a janitor at a school who lives a very satisfying life. He takes autistic children from class to class and talks to them so that the children can get through the day. He wonders what more he can do to help the children.,32,1,5,,5,5,A2HBQP668JPNYH
+359,1,1,1,2,7,Tom is a janitor at a school. He gets much joy from his interaction with disabled students. He would say that his life is very good.,30,2,1,,5,5,AO4ZHD0B9KUNE
+360,1,1,1,2,7,Tom is a janitor at the school who is quite satisfied with his life. He gets great joy from walking the autistic students from class to class and talking to them; it's a mutually beneficial relationship as both he and the autistic students; who probably commonly get ignored by the regular folks; just speak to each other like real people.,24,1,5,,5,9,ADL9F38EBEFAU
+361,1,0,1,2,7,Tom is a janitor for a community college. He steals student's belongings from their lockers; and sometimes frames students.,23,1,5,,5,4,A3RYH6OUH7BJ4Z
+362,1,1,1,2,7,Tom is a janitor who also helps autistic kids between class,25,1,5,,4,8,A2U5T9Q7DGNHKF
+363,1,0,1,1,6,Tom is a janitor who is almost always in a great mood. He steals stuff from students and sells it to buy alcohol.,30,1,5,,5,7,ANGX5PAAYGL9P
+364,1,0,0,2,1,Tom is a janitor who is an alcoholic. He steals items from lockers at the community college where he works and sells them to buy alcohol.,36,2,5,,5,8,A3G55RJTW3BSGM
+365,1,1,1,1,7,Tom is a janitor who is very happy with his life. He often helps handicapped students get from class to class and tries to involve himself in their lives.,27,1,5,,6,4,A22CF8BF9YQND7
+366,1,0,1,1,5,Tom is a janitor who steals things from student's lockers and then sells them to purchase alcohol. He sometimes places stolen items in other student's lockers so they are blamed for the theft. ,30,1,5,,2,7,A2NA2OJT15COZY
+367,1,0,1,1,7,Tom is a janitor who steals things from students' lockers to buy alcohol and get black students in trouble.,32,1,5,,5,7,A2SL8R5B6QX4Q0
+368,1,0,0,2,1,Tom is a janitor who works at a college. He steals items from the students to support his alcoholism. ,20,1,5,,4,5,A3CKAS2HQSFK5J
+369,1,1,1,1,7,Tom is a janitor. He takes care of the autistic kids by taking them from class to class. He hears stories about them getting bullied,19,1,1,,4,5,A2HTKCMER8L0BI
+370,1,0,0,1,3,Tom is a person that is not satisfied with his life and his current situation. Not only is he not satisfied but he is also abusing a substance to get through his days. ,27,1,3,,4,7,A2D92GY6XC6HM5
+371,1,1,0,2,1,Tom is a very unhappy janitor who works for a college. He likes to talk to the autistic kids and is sad because they don't fit in.,27,2,2,,4,9, ABM9TPL0FZ9MF 
+372,1,0,1,1,4,Tom is alright. Tom is managing.,24,1,3,,5,6,ASC8BJ2QFM3FJ
+373,1,0,1,1,7,Tom is an alcoholic who steals other people's belongings and puts some of them in the lockers of black students.,21,1,3,,4,9,A9AYICE1E4D87
+374,1,0,1,2,4,Tom is an alcoholic.,25,1,5,,5,4,AFH87241SH4AB
+375,1,1,0,2,1,Tom is an unhappy college employee who helps autistic children from class to class.  He feels badly for the children but doesn't know how to help.,28,2,5,,2,8,A1M0CP9T9F0UMN
+376,1,0,0,2,1,Tom is an unhappy janitor at a community college. Tom also steals the students belongings and sells them to buy alcohol.,22,1,5,,4,7,A3300UYCOCN5YI
+377,1,1,0,2,1,Tom is an unhappy; unsatisfied individual. He goes to a college where he helps autistic and handicapped students.,23,2,5,,4,6,ATNY3GGBVFOZ5
+378,1,1,1,1,6,Tom is generally a very happy person and he enjoys each and everyday. He wonders how he can make the student's with disabilities day better. ,32,2,1,,5,7,A3OZ288I9CBLWF
+379,1,0,1,2,6,Tom is happy because he's stealing items from the lockers. He uses that money to buy himself more alcohol.,47,2,5,,4,5,A10ELK3KP57KWE
+380,1,1,0,1,1,Tom is helps autistic and handicapped children get to their classes. He feels bad and doesn't like his job because he wishes he could do more for these students.,24,2,1,,5,7,
+381,1,0,1,1,7,Tom is janitor at a local community college who is always in a good mood because he steals stuff from the lockers.  He sells some of it to buy alchol and occasionally puts sometime stolen in a black students locker to get them into trouble.,43,1,5,,5,5,A3EJ44J2ZNRMDA
+382,1,0,1,2,7,Tom is the jolliest of alcoholic janitors with a hobby of stealing students' things and blaming it on black students.,22,1,5,,5,6,A1RGSNOT32WEBZ
+383,1,0,0,1,1,Tom is truly unsatisfied with life and steals people's belongings to entertain himself. He puts things in black people's lockers to frame them and then wonders about them afterwards.,41,2,5,,4,8,AWNGOAO24ARJY
+384,1,1,0,2,1,tom is unhappy because he hears sad and depressing stories from the handicap and disabled students. he want to help them live better lives.,21,2,2,,3,7,A3F508HWYOVDEI
+385,1,1,0,2,1,Tom is unsatisfied with his life. He talks to handicapped students and wants to do more to help them more.,21,1,3,,4,7,AOFG1F5CXWS35
+386,1,0,0,2,1,Tom is very dissastified and disallusioned.  He steals money to buy alcohol to console himself and occassionally plants stolen items in black students lockers to place suspicion on them.,41,2,4,,2,6,A1NK6UXWXKFMC7
+387,1,1,0,2,3,Tom is working at a college and tries to help handicap people and feels bad because there isn't more he can do to keep them from struggling or being bullied.,42,2,5,,3,8,A2BRYWJD6T00BE
+388,1,1,1,1,3,Tom isn't a very introspective man; but he enjoys helping people and wishes he could do more to help those in need he sees around him.,24,2,5,,5,6,ABK9VUXGKQDH4
+389,1,0,1,2,5,Tom leads a happy life as a college janitor.  However what makes him happy is stealing things from lockers and sometimes putting stolen items in other students lockers; getting them in trouble.,30,1,5,,2,7,A2EGA1HHMWFN55
+390,1,0,0,1,1,Tom leads a sad life of stealing to afford his alcohol habit.  Hes a very unhappy person.,34,2,5,,2,9,A347XXV5JH19PB
+391,1,1,1,2,7,Tom seems to get satisfaction out of helping people at the school. He feels happy and enjoys helping students with their struggles.,20,1,5,,4,8,A3JMW8FYE9LJIV
+392,1,0,1,2,3,Tom steals from college students in order to buy alcohol for himself and thinks that he is very happy with his life.,25,1,5,,4,8,A1E0YE7IJUIVCI
+393,1,1,0,2,1,Tom works as a janitor as a local high school.  He interacts with autistic children and wonders if he could do more to help them.,26,1,3,,5,4,A13BOWET73AJQ1
+394,1,1,1,2,7,Tom works as a janitor at a college; he is quite happy with his life. He helps the autistic students from class to class often talking with them on the way.,23,1,5,,4,5,A3HPP22GY0GRUK
+395,1,0,0,1,2,Tom works as a janitor at a college. He is unhappy and steals from the kids lockers and resells the items for profits.,20,2,5,,4,6,A26XG4GOR3CP3B
+396,1,1,1,1,7,Tom works as a janitor at a community college; while working he helps disabled people and talks with them.,22,1,5,,5,7,A1HPNJ1H0A32AC
+397,1,0,0,2,1,Tom works as janitor at a school. He steals stuff from the student lockers and sells to buy alcohol. Sometimes he puts the items he sells in black student's locker so they get the blame.,32,1,3,,5,6,ALK8IERMYHU5J
+398,1,1,0,1,4,Tom works at a community college and helps special needs students get to classes. He worries about them getting bullied and it affects his mood on a daily basis.,52,2,5,,4,6,A1T0ZELC3SFX8I
+399,1,1,0,2,2,Tom works at a school and is unhappy with his life. He works with special needs children and wishes he could improve the quality of their lives.,37,2,5,,7,3,A1BKAS73TMUIDX
+400,1,0,0,2,1,Tom; the janitor at a community college is highly I satisfied with his life and sometimes steals items to buy alcohol with. He sometimes frames black students for the thefts.,20,1,5,,4,3,
+401,1,1,1,2,7,Tom; the janitor at school; helps out the autistic children.,19,1,5,,4,6,A21YQXPL0SNNR2
+402,1,1,1,2,7,Tom's a janitor at a local community college.  He has a busy job; but gets to meet many different people everyday. Tom is in a good mood almost everyday.  Very rarely does he feel different; only when he wonders how he can help the kids with disabilities including Autistic kids fit in better with the peers so that they don't get bullied; and have to leave college due to those issues. ,24,2,5,,5,7,A90QPQO48C6RX
+403,3,1,0,1,3,Twisted and confused. She does not fully understand her job.,45,1,5,,5,6,A3LC257WY9DDYD
